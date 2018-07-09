@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16ea2ea831214b647bda1de2090936db
+timeCreated: 1526044689
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HornSound: {fileID: 8300000, guid: 29355b92e7a3ae240bb86f0475f87699, type: 3}
+  - SelfAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

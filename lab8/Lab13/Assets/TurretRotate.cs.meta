@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a0faa8985c51a8479ec4133b2e7031d
+timeCreated: 1525185767
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TurretSound: {fileID: 8300000, guid: e790ec0eef230454a872dbd7fe886862, type: 3}
+  - SelfAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
